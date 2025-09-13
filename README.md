@@ -1,12 +1,7 @@
-I couldn’t open that Notion page — it looks like Notion is private or blocked for me. If you’d like an exact README from the page, please either (A) make the Notion page public and share the public link, or (B) paste the page contents here.
-
-Meanwhile I made a clean, production-ready `README.md` tailored to a **“Full Backend Developer Programme”**. Use it as-is or paste your Notion content and I’ll adapt this to match precisely.
-
----
 
 # `README.md`
 
-````markdown
+
 # Full Backend Developer Programme
 
 [![Status](https://img.shields.io/badge/status-active-brightgreen)]()
@@ -15,7 +10,7 @@ Meanwhile I made a clean, production-ready `README.md` tailored to a **“Full B
 
 > Intensive Full Backend Developer training program covering core backend concepts, databases, APIs, testing, deployment, and real-world projects.
 
----
+
 
 ## Table of Contents
 
